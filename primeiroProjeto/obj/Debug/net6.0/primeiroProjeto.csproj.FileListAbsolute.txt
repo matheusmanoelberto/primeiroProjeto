@@ -1,0 +1,15 @@
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.exe
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.deps.json
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.runtimeconfig.json
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.dll
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\bin\Debug\net6.0\primeiroProjeto.pdb
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.dll
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\refint\primeiroProjeto.dll
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.pdb
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\primeiroProjeto.genruntimeconfig.cache
+C:\Users\MATEUS\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\net6.0\ref\primeiroProjeto.dll
